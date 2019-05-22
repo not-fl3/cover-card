@@ -27,7 +27,7 @@ body {
     margin-bottom: 40px;
 }
 h1 {
-    color: black;
+    color: '#222';
     font-weight: normal;
     letter-spacing: 0.1em;
     font-size: 4em;
@@ -35,7 +35,7 @@ h1 {
     margin: -10px 0;
 }
 h3 {
-    color: black;
+    color: '#666';
     padding-bottom: 20px;
     font-weight: bold;
 }
