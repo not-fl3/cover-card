@@ -35,7 +35,7 @@ patreon: 'fedorgames'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, patreon, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, facebook, patreon, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Advanced settings
 plugins:
