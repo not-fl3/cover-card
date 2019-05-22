@@ -32,10 +32,10 @@ patreon: 'fedorgames'
 #weibo: 'myweibo'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
-#email: 'hello@example.com'
+email: 'contact@fedorgames.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, patreon, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [twitter, facebook, patreon, github-user, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Advanced settings
 plugins:
